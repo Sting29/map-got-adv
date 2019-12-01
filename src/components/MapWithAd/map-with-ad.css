@@ -1,9 +1,3 @@
-.map-with-ad-container {
-    position: absolute;
-    left: 400px;
-    height: 100%;
-}
-
 .map-with-ad-container .map-with-ad {
     width: 1280px;
     height: 1877px;
