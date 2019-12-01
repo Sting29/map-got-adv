@@ -1,0 +1,7 @@
+.ad-container > img,
+.ad-container > video {
+    position: absolute;
+    height: auto;
+    padding: 3px;
+    background: white;
+}

@@ -1,0 +1,14 @@
+.log-ads-container {
+    line-height: 1.5;
+    vert-align: middle;
+    margin: 20px;
+}
+
+.log-ads-container .header {
+    font-weight: bold;
+}
+
+.log-ads-container ul {
+    padding: 0;
+    list-style-type: none;
+}
